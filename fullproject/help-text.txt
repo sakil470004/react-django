@@ -5,7 +5,8 @@ python manage.py migrate
 python manage.py createsuperuser
 # for running the server
 python manage.py runserver
-
+#open the shell
+python manage.py shell
 #step by step how this project was created
 # 1. create a project
 django-admin startproject mysite

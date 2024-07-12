@@ -14,6 +14,7 @@ python manage.py startapp myapp
 # 3. create a model
 # 4. create a view
 # 5. create a template
+
 # 6. create a url
 # 7. create a form
 # 8. create a admin
